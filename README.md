@@ -32,12 +32,16 @@
       <img align="right" alt="Lusques-HTML" width="400px" src="about__projects-cardTemplate.svg">
     </a>
   </div>
-  <img align="center" alt="Lusques-HTML" height="48px" width="100%" src="gap.svg">
+  <a href="#">
+    <img align="center" alt="Lusques-HTML" height="48px" width="100%" src="gap.svg">
+  </a>
 </div>
 <div class="footer">
-  <p align="center">
-    <img align="center" alt="Lusques-HTML" width="375px" src="footer-text.svg">
-  </p>
+  <a href="#">
+    <p align="center">
+      <img align="center" alt="Lusques-HTML" width="375px" src="footer-text.svg">
+    </p>
+  </a>
   <p align="center">
     <a href="https://wa.me/+5511951233225" target="__blank">
       <img align="center" alt="Lusques-HTML" width="28px" src="mdi_whatsapp.svg">
