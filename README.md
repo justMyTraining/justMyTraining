@@ -13,13 +13,13 @@
     <img align="center" alt="Lusques-HTML" width="282px"src="about__projects-title.png">
     <img align="center" alt="Lusques-HTML" height="24px" width="100%"src="gap.svg">
     <div>
-      <img align="left" alt="Lusques-HTML" width="48%"src="about__projects-cardTemplate.svg">
-      <img align="right" alt="Lusques-HTML" width="48%"src="about__projects-cardTemplate.svg">
+      <img align="left" alt="Lusques-HTML" width="400px"src="about__projects-cardTemplate.svg">
+      <img align="right" alt="Lusques-HTML" width="400px"src="about__projects-cardTemplate.svg">
     </div>
     <img align="center" alt="Lusques-HTML" height="48px" width="100%"src="gap.svg">
     <div>
-      <img align="left" alt="Lusques-HTML" width="48%"src="about__projects-cardTemplate.svg">
-      <img align="right" alt="Lusques-HTML" width="48%"src="about__projects-cardTemplate.svg">
+      <img align="left" alt="Lusques-HTML" width="400px"src="about__projects-cardTemplate.svg">
+      <img align="right" alt="Lusques-HTML" width="400px"src="about__projects-cardTemplate.svg">
     </div>
     
       
