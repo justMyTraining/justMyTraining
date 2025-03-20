@@ -39,10 +39,15 @@
     <img align="center" alt="Lusques-HTML" width="375px" src="footer-text.svg">
   </p>
   <p align="center">
-    <img align="center" alt="Lusques-HTML" width="28px" src="mdi_whatsapp.svg">
-    <img align="center" alt="Lusques-HTML" width="28px" src="mdi_email.svg">
-    <img align="center" alt="Lusques-HTML" width="28px" src="mdi_linkedin.svg">
-    <img align="center" alt="Lusques-HTML" width="28px" src="mdi_github.svg">
+    <a href="https://wa.me/+5511951233225" target="__blank">
+      <img align="center" alt="Lusques-HTML" width="28px" src="mdi_whatsapp.svg">
+    </a>
+    <a href="mailto:lucascarlosjobs@gmail.com?subject=Queremos que você seja o próximo Front-End da nossa equipe!" target="__blank">
+      <img align="center" alt="Lusques-HTML" width="28px" src="mdi_email.svg">
+    </a>
+    <a href="https://www.linkedin.com/in/lucascarlosdev/" target="__blank">
+      <img align="center" alt="Lusques-HTML" width="28px" src="mdi_linkedin.svg">
+    </a>
   </p>
 </div>
 
