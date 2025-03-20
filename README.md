@@ -21,9 +21,12 @@
       <img align="left" alt="Lusques-HTML" width="400px"src="about__projects-cardTemplate.svg">
       <img align="right" alt="Lusques-HTML" width="400px"src="about__projects-cardTemplate.svg">
     </div>
+    <img align="center" alt="Lusques-HTML" height="24px" width="100%" src="gap.svg">
   </div>
   <div class="footer">
-    <img align="center" alt="Lusques-HTML" width="55%" src="footer-text.svg">
+    <img align="center" alt="Lusques-HTML" height="1px" width="215px" src="gap.svg">
+    <img align="center" alt="Lusques-HTML" width="375px" src="footer-text.svg">
+    <img align="center" alt="Lusques-HTML" height="1px" width="215px" src="gap.svg">
   </div>
   
   
