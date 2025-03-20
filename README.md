@@ -21,8 +21,9 @@
       <img align="left" alt="Lusques-HTML" width="400px"src="about__projects-cardTemplate.svg">
       <img align="right" alt="Lusques-HTML" width="400px"src="about__projects-cardTemplate.svg">
     </div>
-    
-      
+  </div>
+  <div class="footer">
+    <img align="center" alt="Lusques-HTML" width="55%" src="footer-text.svg">
   </div>
   
   
