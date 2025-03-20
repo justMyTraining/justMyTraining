@@ -24,7 +24,9 @@
     <img align="center" alt="Lusques-HTML" height="24px" width="100%" src="gap.svg">
   </div>
   <div class="footer">
-    <img align="center" alt="Lusques-HTML" width="375px" src="footer-text.svg">
+    <p align="center">
+      <img align="center" alt="Lusques-HTML" width="375px" src="footer-text.svg">
+    </p>
   </div>
   
   
